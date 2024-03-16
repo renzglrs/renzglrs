@@ -1,5 +1,3 @@
-[![MasterHead](https://freefrontend.com/assets/img/css-loaders/loading-animation.gif)](https://renzcarloglorioso.io)
-
 # Hi, I'm Renz! 👋
 
 ## 🚀 About Me
