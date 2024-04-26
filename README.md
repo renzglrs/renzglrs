@@ -12,7 +12,15 @@
 
 ###
 
-<p align="left">🎓 I am [Your Job Title or Field of Study] with a passion for [Briefly Describe Your Passion or Focus Area].<br>🔭 I’m currently working on [Mention any project or field you're currently working on].<br>🌱 I’m currently learning [Mention any technologies, tools, or topics you're learning now].<br>👯 I’m looking to collaborate on [Mention any type of projects or ideas you are interested in collaborating on].<br>🤔 I’m looking for help with [Mention any area where you need help or support].<br>💬 Ask me about [Mention topics you are comfortable discussing or advising on].<br>📫 How to reach me: [Your Contact Information].<br>📝 [Link to your Resume or CV](Link to your Resume or CV).</p>
+<p align="left">
+🎓 I am Fullstack Web Developer with a strong in foundation frontend development.<br>
+<!-- 🔭 I’m currently working on [Mention any project or field you're currently working on].<br> -->
+🌱 I’m currently learning PHP, Laravel, NextJS, and Typescript.<br>
+<!-- 👯 I’m looking to collaborate on [Mention any type of projects or ideas you are interested in collaborating on].<br> -->
+<!-- 🤔 I’m looking for help with [Mention any area where you need help or support].<br> -->
+📫 How to reach me: renzcarlo.glorioso@gmail.com.<br></p>
+
+📝 [Link to Resume](https://drive.google.com/file/d/1Jm4-s7q5phO4qIfQwvfU-K-y98PasamH/view?usp=drive_link)
 
 ###
 
