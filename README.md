@@ -15,7 +15,7 @@
 <p align="left">
 🎓 I am Fullstack Web Developer with a strong in foundation frontend development.<br>
 <!-- 🔭 I’m currently working on [Mention any project or field you're currently working on].<br> -->
-🌱 I’m currently learning PHP, Laravel, NextJS, and Typescript.<br>
+🌱 I’m currently learning: NextJS, and Typescript.<br>
 <!-- 👯 I’m looking to collaborate on [Mention any type of projects or ideas you are interested in collaborating on].<br> -->
 <!-- 🤔 I’m looking for help with [Mention any area where you need help or support].<br> -->
 📫 How to reach me: renzcarlo.glorioso@gmail.com.<br></p>
